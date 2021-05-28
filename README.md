@@ -8,11 +8,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Machine Learning and stuff related to Data Science
 - 💬 Ask me about any tech related stuff
-- 📫
 - 😄 Pronouns: TechGirl/DSCoder
-- ⚡ Fun fact: I love eating, music listening and a big foodie :D
+- ⚡ Fun fact: I love eating, music listening and a big foodie :
 
-
-Connect with me:
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/YouTube.svg" />
-> I have always been
