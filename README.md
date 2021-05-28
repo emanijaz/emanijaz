@@ -9,5 +9,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Machine Learning and stuff related to Data Science
 - 💬 Ask me about any tech related stuff
 - 😄 Pronouns: TechGirl/DSCoder
-- ⚡ Fun fact: I love eating, music listening and a big foodie :
 
