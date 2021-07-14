@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on React/Angular websites
 - 🌱 I’m an Data Science enthusiast and have great interest in Deep Learning Applications
 - 👯 I’m looking to collaborate on Open Source Projects
